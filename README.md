@@ -30,9 +30,7 @@ I’m a developer who loves building modern web applications using both frontend
 
 ## 📊 GitHub Stats
 
-![Indro's GitHub Stats](https://github-readme-stats.vercel.app/api?username=abriokta&show_icons=true&theme=tokyonight) 
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=abriokta&layout=compact&theme=tokyonight&hide_border=true)
+![Indro's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Briii999&show_icons=true&theme=tokyonight) 
 
 ---
 
