@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Indro Abri Okta!
+# 👋 Hi, I'm Indro Abri Oktariansyah!
 
 ### 💻 Full Stack Web Developer | Passionate about Clean Code & Scalable Systems
 
