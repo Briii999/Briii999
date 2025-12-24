@@ -21,18 +21,21 @@ I’m a developer who loves building modern web applications using both frontend
 ![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?logo=laravel&logoColor=white)
 ![CodeIgniter](https://img.shields.io/badge/-CodeIgniter-E44D26?logo=codeigniter&logoColor=white)
 
-### Database & ORM
+### Database, Cache & ORM
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/-Redis-DC382D?logo=redis&logoColor=white)
 ![Prisma ORM](https://img.shields.io/badge/-Prisma-2D3748?logo=prisma&logoColor=white)
+![Sequelize](https://img.shields.io/badge/-Sequelize-52B0E7?logo=sequelize&logoColor=white)
 
 ---
 
-## 🧠 Personal Values
+## 🧭 Principles I Work By
 
-- 💡 Code should be **clean, useful, and impactful**
-- ⚖️ Career growth matters, but **mental health and inner peace matter more**
-- 🔁 Lifelong learning, without sacrificing humanity
+- 🧩 Simple, maintainable code over unnecessary complexity  
+- 🕰️ Sustainable pace over constant urgency  
+- 🧠 Clear mind > constant pressure  
+- 🌱 Progress that improves life, not just resumes
 
 ---
 
@@ -48,4 +51,6 @@ I’m a developer who loves building modern web applications using both frontend
 
 ---
 
-> ⚡ Fun Fact: I love learning new technologies and diving deep into code until it works perfectly 🚀
+> ⚡ Quiet Note:  
+> I’m not chasing burnout or hype.  
+> I’m building skills, systems, and a life I don’t need to escape from.
